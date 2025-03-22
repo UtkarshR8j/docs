@@ -24,12 +24,12 @@
         ]
       },
       {
-        "tab": "Document for Partners",
+        "tab": "Documents for Partners",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Partners",
             "pages": [
-              "api-reference/introduction"
+              "partnerdocs/introduction"
             ]
           }
         ]
